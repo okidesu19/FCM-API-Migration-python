@@ -184,12 +184,6 @@ public class Main {
   ```
 ---
 
-## 📜 **Lisensi**
-
-Proyek ini dilisensikan di bawah **MIT License**. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
----
-
 Dibuat dengan ❤️ oleh Jonathan.  
 💡 **Terinspirasi oleh kebutuhan migrasi FCM HTTP v1 API**.
 ---
