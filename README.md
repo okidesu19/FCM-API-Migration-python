@@ -50,8 +50,7 @@ FCM (Firebase Cloud Messaging) telah menghentikan dukungan untuk API lama (HTTP 
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/fcm-http-v1-api.git
-   cd fcm-http-v1-api
+   https://github.com/okidesu19/FCM-API-Migration-python.git
    ```
 
 2. Install dependencies:
